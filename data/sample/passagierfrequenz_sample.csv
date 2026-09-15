@@ -1,0 +1,501 @@
+code_codice;uic;bahnhof_gare_stazione;kt_ct_cantone;isb_gi;jahr_annee_anno;dtv_tjm_tgm;dwv_tmjo_tfm;dnwv_tmjno_tmgnl;evu_ef_itf;bemerkungen;remarques;note;remarks;lod;geopos
+AA;8502113.0;Aarau;AG;SBB;2018;37900.0;44800.0;22700.0;SBB;Ohne AVA.;Sans AVA.;Senza AVA.;Without AVA.;http://lod.opentransportdata.swiss/didok/didok85;47.39135951416977, 8.051273718700699
+AA;8502113.0;Aarau;AG;SBB;2023;37700.0;43400.0;24700.0;SBB, SOB;Ohne AVA.;Sans AVA.;Senza AVA.;Without AVA.;http://lod.opentransportdata.swiss/didok/didok85;47.39135951416977, 8.051273718700699
+AA;8502113.0;Aarau;AG;SBB;2024;39000.0;45300.0;24800.0;SBB, SOB;Ohne AVA.;Sans AVA.;Senza AVA.;Without AVA.;http://lod.opentransportdata.swiss/didok/didok85;47.39135951416977, 8.051273718700699
+AA;8502113.0;Aarau;AG;SBB;2025;40100.0;46600.0;25700.0;SBB, SOB;Ohne AVA.;Sans AVA.;Senza AVA.;Without AVA.;http://lod.opentransportdata.swiss/didok/didok85;47.39135951416977, 8.051273718700699
+AAT;8503124.0;Aathal;ZH;SBB;2022;690.0;750.0;570.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.3359591338364, 8.765625135347072
+AB;8507472.0;Ausserberg;VS;BLS;2025;180.0;170.0;210.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.31234824494208, 7.8441670280993065
+ABE;8504404.0;Aarberg;BE;SBB;2022;520.0;580.0;400.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.04454127724739, 7.278692565659158
+ABO;8502000.0;Aarburg-Oftringen;AG;SBB;2025;2500.0;3000.0;1400.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.320268469495055, 7.908222606719322
+ACLA;8505180.0;Acla da Fontauna;GR;MGB;2022;140.0;140.0;140.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.69717382256163, 8.8457908504282
+ACLA;8505180.0;Acla da Fontauna;GR;MGB;2023;140.0;150.0;130.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.69717382256163, 8.8457908504282
+AD;8506013.0;Aadorf;TG;SBB;2018;1700.0;2000.0;1000.0;SBB, Thurbo;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;http://lod.opentransportdata.swiss/didok/didok85;47.48811815646303, 8.903301351691383
+AD;8506013.0;Aadorf;TG;SBB;2022;1500.0;1700.0;1100.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.48811815646303, 8.903301351691383
+ADF;8508316.0;Alpnach Dorf;OW;ZB;2023;1400.0;1600.0;950.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.94059064828779, 8.27534492811314
+ADF;8508316.0;Alpnach Dorf;OW;ZB;2024;1500.0;1800.0;1000.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.94059064828779, 8.27534492811314
+AEF;8508085.0;Aefligen;BE;BLS;2024;410.0;480.0;270.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.0955935107256, 7.559253217679386
+AF;8502224.0;Affoltern am Albis;ZH;SBB;2018;6800.0;8100.0;4000.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.2760703624343, 8.446594995016907
+AF;8502224.0;Affoltern am Albis;ZH;SBB;2022;6400.0;7300.0;4100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.2760703624343, 8.446594995016907
+AF;8502224.0;Affoltern am Albis;ZH;SBB;2024;7200.0;8300.0;4700.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.2760703624343, 8.446594995016907
+AI;8505201.0;Airolo;TI;SBB;2024;530.0;500.0;610.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.52752595779199, 8.608619755602403
+AIG;8501400.0;Aigle;VD;SBB;2024;11200.0;11900.0;9400.0;RegionAlps, SBB;Ohne TPC.;Sans TPC.;Senza TPC.;Without TPC.;http://lod.opentransportdata.swiss/didok/didok85;46.316855418598124, 6.963683211861402
+ALD;8508321.0;Luzern Allmend/Messe;LU;ZB;2023;2400.0;2200.0;2700.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.03506817990225, 8.30323743965895
+ALGR;8509357.0;Alp Grüm;GR;RhB;2022;580.0;570.0;600.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.374506776243244, 10.031235326637933
+ALGR;8509357.0;Alp Grüm;GR;RhB;2024;760.0;730.0;820.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.374506776243244, 10.031235326637933
+ALL;8501035.0;Allaman;VD;SBB;2024;5200.0;6200.0;3100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.47575352079991, 6.399697079747334
+ALL;8501035.0;Allaman;VD;SBB;2025;4900.0;5700.0;3000.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.47575352079991, 6.399697079747334
+ALLI;8501378.0;Allières;FR;MOB;2022;60.0;49.0;110.0;MOB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.46981999615583, 7.007889997112573
+ALN;8506125.0;Altnau;TG;SBB;2018;370.0;380.0;330.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.62136793230426, 9.265917958555868
+ALT;8506319.0;Altstätten SG;SG;SBB;2018;2300.0;2700.0;1500.0;SBB, SOB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.374234807062635, 9.556519883564428
+ALTD;8503211.0;Altendorf;SZ;SBB;2022;670.0;740.0;510.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.19396706593207, 8.822905848209773
+ALV;8509194.0;Alvaneu;GR;RhB;2023;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.671061965849795, 9.65136566565058
+AND;8505165.0;Andermatt;UR;MGB;2023;3100.0;2900.0;3700.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.636890087679205, 8.593280416936754
+AP;8505202.0;Ambrì-Piotta;TI;SBB;2018;120.0;130.0;110.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.51076379041375, 8.689927898844136
+ARB;8506308.0;Arbon;TG;SBB;2025;2100.0;2300.0;1500.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.510587732978976, 9.433358582621896
+ARBS;8516270.0;Arbon Seemoosriet;TG;SBB;2022;440.0;470.0;360.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.52119525824644, 9.425019519186609
+ARD;8501505.0;Ardon;VS;SBB;2018;530.0;660.0;250.0;RegionAlps;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.20859416924087, 7.270946771764377
+AROS;8509157.0;Arosa;GR;RhB;2024;1700.0;1500.0;2100.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.78392353019383, 9.67945480097753
+AST;8508317.0;Alpnachstad;OW;ZB;2022;620.0;570.0;740.0;Zentralbahn;Ohne PB.;Sans PB.;Senza PB.;Without PB.;http://lod.opentransportdata.swiss/didok/didok85;46.9550415274341, 8.277848272022256
+AST;8508317.0;Alpnachstad;OW;ZB;2024;800.0;820.0;780.0;Zentralbahn;Ohne PB.;Sans PB.;Senza PB.;Without PB.;http://lod.opentransportdata.swiss/didok/didok85;46.9550415274341, 8.277848272022256
+AST;8508317.0;Alpnachstad;OW;ZB;2025;780.0;750.0;840.0;Zentralbahn;Ohne PB.;Sans PB.;Senza PB.;Without PB.;http://lod.opentransportdata.swiss/didok/didok85;46.9550415274341, 8.277848272022256
+ATOS;8530801.0;Aareschlucht Ost (Bahn);BE;ZB;2023;230.0;190.0;330.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.71200007733443, 8.217895203012437
+AU;8503205.0;Au ZH;ZH;SBB;2024;1000.0;1100.0;760.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.2468179444234, 8.643725909034172
+AUSG;8506316.0;Au SG;SG;SBB;2018;350.0;400.0;240.0;SOB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.436115820448194, 9.641259107516396
+AUSG;8506316.0;Au SG;SG;SBB;2024;470.0;530.0;320.0;SOB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.436115820448194, 9.641259107516396
+AUSG;8506316.0;Au SG;SG;SBB;2025;450.0;510.0;320.0;SOB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.436115820448194, 9.641259107516396
+AV;8504126.0;Avenches;VD;SBB;2018;700.0;820.0;420.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.88460159766171, 7.0409253236567135
+AVA;8501377.0;Les Avants;VD;MOB;2022;350.0;330.0;380.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.45362569370287, 6.943474544650809
+AW;8506109.0;Amriswil;TG;SBB;2024;3200.0;3500.0;2500.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.550449721216765, 9.30222720092554
+AX;8501107.0;Arnex;VD;SBB;2022;200.0;240.0;110.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.6980776528438, 6.51890716328841
+AX;8501107.0;Arnex;VD;SBB;2025;590.0;710.0;340.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.6980776528438, 6.51890716328841
+BAA;8502206.0;Baar;ZG;SBB;2023;8700.0;10100.0;5400.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.19536403756802, 8.523271537389258
+BAE;8503208.0;Bäch SZ;SZ;SBB;2025;480.0;540.0;350.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.200981641925814, 8.727174268610481
+BAZ;8506205.0;Bazenheid;SG;SBB;2023;1100.0;1200.0;710.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.410126537340275, 9.069059802452417
+BAZ;8506205.0;Bazenheid;SG;SBB;2025;1100.0;1300.0;740.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.410126537340275, 9.069059802452417
+BCT;8500128.0;Boncourt;JU;SBB;2023;240.0;290.0;130.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.49263186836306, 7.016551752254877
+BCT;8500128.0;Boncourt;JU;SBB;2025;190.0;220.0;120.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.49263186836306, 7.016551752254877
+BD;8503504.0;Baden;AG;SBB;2024;33000.0;37200.0;23500.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.476424284622105, 8.307709474036757
+BDF;8508005.0;Burgdorf;BE;SBB;2025;16000.0;18100.0;11200.0;BLS, SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.060700726390664, 7.621694473552611
+BDFB;8508083.0;Burgdorf Buchmatt;BE;BLS;2024;210.0;260.0;90.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.06545797083619, 7.608275974819251
+BDFS;8508081.0;Burgdorf Steinhof;BE;BLS;2024;1600.0;1900.0;930.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.05119989376763, 7.6195394294912155
+BDR;8504208.0;Boudry;NE;SBB;2024;370.0;420.0;260.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.95945708722832, 6.835047623990482
+BDR;8504208.0;Boudry;NE;SBB;2025;470.0;530.0;340.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.95945708722832, 6.835047623990482
+BEDI;8519370.0;Bernina Diavolezza;GR;RhB;2022;310.0;310.0;300.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.44174346387519, 9.982275309697107
+BEL;8505213.0;Bellinzona;TI;SBB;2024;18600.0;19900.0;15600.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.195431792205746, 9.02951851227292
+BEL;8505213.0;Bellinzona;TI;SBB;2025;20700.0;21900.0;17900.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.195431792205746, 9.02951851227292
+BELA;8509373.0;Bernina Lagalb;GR;RhB;2018;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.43633101946877, 9.991539064571707
+BELA;8509373.0;Bernina Lagalb;GR;RhB;2023;90.0;100.0;60.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.43633101946877, 9.991539064571707
+BELA;8509373.0;Bernina Lagalb;GR;RhB;2025;120.0;80.0;190.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.43633101946877, 9.991539064571707
+BELL;8500205.0;Bellach;SO;SBB;2022;670.0;790.0;380.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.20887878167503, 7.507825396241335
+BEMG;8501675.0;Betten Talstation;VS;MGB;2023;790.0;620.0;1200.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.37115787247767, 8.07651985295806
+BEMM;8501390.0;Belmont-sur-Montreux;VD;MOB;2018;49.0;49.0;49.0;MOB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.44203999795778, 6.906119994693679
+BER;8506135.0;Berlingen;TG;SBB;2018;260.0;270.0;240.0;Thurbo;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;http://lod.opentransportdata.swiss/didok/didok85;47.67321378502421, 9.022022963058884
+BER;8506135.0;Berlingen;TG;SBB;2023;260.0;270.0;250.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.67321378502421, 9.022022963058884
+BERG;8506194.0;Berg;TG;SBB;2018;330.0;380.0;230.0;Thurbo;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;http://lod.opentransportdata.swiss/didok/didok85;47.582489130476986, 9.173921928906056
+BERG;8506194.0;Berg;TG;SBB;2024;320.0;350.0;250.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.582489130476986, 9.173921928906056
+BERG;8506194.0;Berg;TG;SBB;2025;330.0;360.0;260.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.582489130476986, 9.173921928906056
+BEV;8509250.0;Bever;GR;RhB;2022;350.0;350.0;370.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.54954482661848, 9.888184176050647
+BEX;8501402.0;Bex;VD;SBB;2024;2700.0;3000.0;1800.0;RegionAlps, SBB;Ohne TPC.;Sans TPC.;Senza TPC.;Without TPC.;http://lod.opentransportdata.swiss/didok/didok85;46.251464582286516, 7.000669902355405
+BF;8504139.0;Belfaux CFF;FR;SBB;2018;410.0;520.0;160.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.81692461024266, 7.106230136105958
+BG;8500309.0;Brugg AG;AG;SBB;2024;22400.0;25700.0;15000.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.48085983498152, 8.208844553488955
+BGH;8503287.0;Burghalden;ZH;SOB;2018;910.0;1100.0;560.0;SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.208673899354416, 8.692719076992809
+BGH;8503287.0;Burghalden;ZH;SOB;2022;770.0;870.0;510.0;SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.208673899354416, 8.692719076992809
+BH;8507287.0;Burgholz;BE;BLS;2022;49.0;50.0;49.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.665751140552416, 7.603229334876707
+BI;8504300.0;Biel/Bienne;BE;SBB;2024;47300.0;52300.0;36100.0;BLS, SBB;Ohne ASM.;Sans ASM.;Senza ASM.;Without ASM.;http://lod.opentransportdata.swiss/didok/didok85;47.13289787086168, 7.242910603227559
+BIA;8505209.0;Biasca;TI;SBB;2018;1600.0;1900.0;1000.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.35198415240514, 8.974179216857172
+BIBD;8518771.0;Biel/Bienne Bözingenfeld/Champ;BE;SBB;2022;490.0;660.0;110.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.15838230220998, 7.294648132740621
+BIGO;8501668.0;Biel (Goms);VS;MGB;2024;110.0;110.0;90.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.45505651107964, 8.219428619186303
+BIM;8504419.0;Biel Mett;BE;SBB;2023;770.0;920.0;430.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.144725283875026, 7.272487256323596
+BIR;8502221.0;Birmensdorf ZH;ZH;SBB;2018;4400.0;5000.0;2900.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.35743137498622, 8.437555140807286
+BIR;8502221.0;Birmensdorf ZH;ZH;SBB;2024;4600.0;5300.0;3100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.35743137498622, 8.437555140807286
+BIRR;8502247.0;Birr;AG;SBB;2018;540.0;690.0;190.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.43584669605579, 8.217664818356512
+BIRR;8502247.0;Birr;AG;SBB;2023;530.0;650.0;240.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.43584669605579, 8.217664818356512
+BITS;8501677.0;Bitsch;VS;MGB;2023;360.0;340.0;410.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.33605716860092, 8.017223786090218
+BITS;8501677.0;Bitsch;VS;MGB;2024;300.0;320.0;240.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.33605716860092, 8.017223786090218
+BLG;8502025.0;Baldegg;LU;SBB;2018;240.0;260.0;190.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.18568895916557, 8.280231508343205
+BLGK;8516353.0;Baldegg Kloster;LU;SBB;2023;500.0;680.0;100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.18061602969319, 8.280597542946799
+BLIZ;8501669.0;Blitzingen;VS;MGB;2018;120.0;110.0;130.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.44466486792151, 8.204967015497342
+BLIZ;8501669.0;Blitzingen;VS;MGB;2022;130.0;130.0;140.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.44466486792151, 8.204967015497342
+BLIZ;8501669.0;Blitzingen;VS;MGB;2023;140.0;140.0;140.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.44466486792151, 8.204967015497342
+BLON;8501281.0;Blonay;VD;MVR;2018;1200.0;1400.0;830.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.46568999526654, 6.895940002913107
+BLU;8503113.0;Blumenau;SG;SBB;2023;500.0;610.0;260.0;SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.22367068251935, 8.84240509395636
+BMA;8503134.0;Bauma;ZH;SBB;2018;640.0;670.0;600.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.36883663689143, 8.87823304222927
+BMA;8503134.0;Bauma;ZH;SBB;2022;670.0;700.0;600.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.36883663689143, 8.87823304222927
+BN;8507000.0;Bern;BE;SBB;2018;184000.0;206400.0;134100.0;BLS, SBB;Ohne RBS und TPF.;Sans RBS et TPF.;Senza RBS e TPF.;Without RBS and TPF.;http://lod.opentransportdata.swiss/didok/didok85;46.94883229049847, 7.439130889923934
+BN;8507000.0;Bern;BE;SBB;2022;155200.0;164800.0;132800.0;BLS, SBB, SOB, TPF;Ohne RBS.;Sans RBS.;Senza RBS.;Without RBS.;http://lod.opentransportdata.swiss/didok/didok85;46.94883229049847, 7.439130889923934
+BN;8507000.0;Bern;BE;SBB;2023;175400.0;189200.0;143800.0;BLS, SBB, SOB, TPF;Ohne RBS.;Sans RBS.;Senza RBS.;Without RBS.;http://lod.opentransportdata.swiss/didok/didok85;46.94883229049847, 7.439130889923934
+BN;8507000.0;Bern;BE;SBB;2025;177000.0;191700.0;144300.0;BLS, SBB, SOB, TPF;Ohne RBS.;Sans RBS.;Senza RBS.;Without RBS.;http://lod.opentransportdata.swiss/didok/didok85;46.94883229049847, 7.439130889923934
+BNAS;8504108.0;Bern Europaplatz;BE;SBB;2018;5700.0;7100.0;2600.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.944209832916776, 7.406117555069086
+BNAS;8504108.0;Bern Europaplatz;BE;SBB;2022;5000.0;5900.0;2900.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.944209832916776, 7.406117555069086
+BNBS;8504106.0;Bern Bümpliz Süd;BE;SBB;2024;3000.0;3600.0;1700.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.93748747604274, 7.395237952496591
+BNG;8506190.0;Bussnang;TG;SBB;2023;470.0;640.0;70.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.55608405274382, 9.084163066148538
+BNST;8504495.0;Bern Stöckacker;BE;BLS;2022;770.0;860.0;570.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.946360316832255, 7.401178544437698
+BNWE;8507079.0;Bern Weissenbühl;BE;BLS;2025;1300.0;1600.0;680.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.9357793562643, 7.430018811116707
+BNZ;8502216.0;Benzenschwil;AG;SBB;2023;180.0;210.0;110.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.24685150439813, 8.365616894910618
+BO;8505207.0;Bodio;TI;SBB;2018;140.0;160.0;90.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.38025452036379, 8.906567985277539
+BO;8505207.0;Bodio TI;TI;SBB;2022;230.0;250.0;170.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.38025452036379, 8.906567985277539
+BO;8505207.0;Bodio TI;TI;SBB;2025;260.0;300.0;170.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.38025452036379, 8.906567985277539
+BOLE;8504218.0;Bôle;NE;SBB;2022;350.0;400.0;240.0;SBB, transN;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.96942291832487, 6.83837449665921
+BOSS;8504003.0;Bossière;VD;SBB;2024;150.0;160.0;130.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.50974851437563, 6.699321762374976
+BOT;8506127.0;Bottighofen;TG;SBB;2023;330.0;350.0;290.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.640707244415424, 9.213104114291147
+BOT;8506127.0;Bottighofen;TG;SBB;2024;320.0;340.0;260.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.640707244415424, 9.213104114291147
+BOT;8506127.0;Bottighofen;TG;SBB;2025;320.0;340.0;270.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.640707244415424, 9.213104114291147
+BOW;8508204.0;Bowil;BE;SBB;2023;290.0;300.0;260.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.90004819357711, 7.698053525927553
+BP;8507076.0;Belp;BE;BLS;2022;4700.0;5300.0;3400.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.88888326683218, 7.498635713426749
+BPST;8507092.0;Belp Steinbach;BE;BLS;2023;1200.0;1400.0;690.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.895164634065004, 7.493091803190511
+BR;8501609.0;Brig;VS;SBB;2024;20900.0;21000.0;20600.0;BLS, MGB, RegionAlps, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.31942270578004, 7.988094739403514
+BRA;8501159.0;Le Brassus;VD;TRAVYS;2022;250.0;270.0;180.0;SBB, TRAVYS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.58554394143053, 6.213944883183952
+BRA;8501159.0;Le Brassus;VD;TRAVYS;2025;240.0;270.0;170.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.58554394143053, 6.213944883183952
+BRG;8504403.0;Bargen BE;BE;SBB;2023;140.0;160.0;100.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.040161668004394, 7.261180411111744
+BRIO;8509366.0;Brusio;GR;RhB;2018;50.0;60.0;49.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.25915796429867, 10.124989472699594
+BRIT;8502002.0;Brittnau-Wikon;LU;SBB;2023;170.0;200.0;100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.26266615496052, 7.9570408485077575
+BRN;8506294.0;Brunnadern-Neckertal;SG;SOB;2025;590.0;650.0;450.0;SOB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.33782748620914, 9.130595381956109
+BRUE;8508309.0;Brünig-Hasliberg;BE;ZB;2018;540.0;490.0;670.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.757762571564356, 8.138654061285152
+BRUE;8508309.0;Brünig-Hasliberg;BE;ZB;2022;550.0;500.0;680.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.757762571564356, 8.138654061285152
+BRUE;8508309.0;Brünig-Hasliberg;BE;ZB;2024;620.0;590.0;680.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.757762571564356, 8.138654061285152
+BRW;8508306.0;Brienzwiler;BE;ZB;2018;70.0;90.0;50.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.745684706112804, 8.09063023521156
+BRZW;8508329.0;Brienz West;BE;ZB;2022;120.0;120.0;120.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.75731227768448, 8.020376643392195
+BS;8500010.0;Basel SBB;BS;SBB;2018;99800.0;111000.0;75000.0;SBB, SBB GmbH;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains en provenance ou à destination de l’étranger ne sont que partiellement recensées.;I passeggeri dall’estero che salgono e scendono dai treni sono considerati solo in parte.;Passengers boarding and alighting to/from abroad are only partially recorded.;http://lod.opentransportdata.swiss/didok/didok85;47.54741205505015, 7.589562790156526
+BS;8500010.0;Basel SBB;BS;SBB;2022;85600.0;90900.0;73100.0;SBB, SBB GmbH, SOB;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains en provenance ou à destination de l’étranger ne sont que partiellement recensées.;I passeggeri dall’estero che salgono e scendono dai treni sono considerati solo in parte.;Passengers boarding and alighting to/from abroad are only partially recorded.;http://lod.opentransportdata.swiss/didok/didok85;47.54741205505015, 7.589562790156526
+BSC;8500122.0;Bassecourt;JU;SBB;2024;1300.0;1500.0;830.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.33668687681137, 7.246846233509847
+BSC;8500122.0;Bassecourt;JU;SBB;2025;1300.0;1500.0;780.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.33668687681137, 7.246846233509847
+BSD;8503307.0;Bassersdorf;ZH;SBB;2025;5800.0;6300.0;4900.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.438570561596144, 8.62622094430108
+BSDH;8500136.0;Basel Dreispitz;BS;SBB;2025;2200.0;2500.0;1500.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.53743606333004, 7.60959592011994
+BSSJ;8500016.0;Basel St. Johann;BS;SBB;2022;110.0;140.0;49.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.570306321253796, 7.572529383710242
+BTH;8500294.0;Balsthal;SO;OeBB;2024;880.0;1000.0;610.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.313193135938086, 7.694668708239076
+BTH;8500294.0;Balsthal;SO;OeBB;2025;970.0;1100.0;690.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.313193135938086, 7.694668708239076
+BU;8509404.0;Buchs SG;SG;SBB;2018;4700.0;5300.0;3200.0;SBB, SOB, Thurbo;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains en provenance ou à destination de l’étranger ne sont que partiellement recensées.;I passeggeri dall’estero che salgono e scendono dai treni sono considerati solo in parte.;Passengers boarding and alighting to/from abroad are only partially recorded.;http://lod.opentransportdata.swiss/didok/didok85;47.16841197936201, 9.478636688917042
+BU;8509404.0;Buchs SG;SG;SBB;2025;5600.0;6200.0;4300.0;SBB, SOB, Thurbo;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains en provenance ou à destination de l’étranger ne sont que partiellement recensées.;I passeggeri dall’estero che salgono e scendono dai treni sono considerati solo in parte.;Passengers boarding and alighting to/from abroad are only partially recorded.;http://lod.opentransportdata.swiss/didok/didok85;47.16841197936201, 9.478636688917042
+BUB;8503122.0;Bubikon;ZH;SBB;2025;5600.0;6600.0;3500.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.27084101315205, 8.822714839063496
+BUC;8500034.0;Buckten;BL;SBB;2018;160.0;190.0;110.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.408991047992814, 7.847800531020693
+BUC;8500034.0;Buckten;BL;SBB;2025;210.0;250.0;130.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.408991047992814, 7.847800531020693
+BUER;8500221.0;Büren an der Aare;BE;SBB;2025;880.0;1000.0;550.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.138157112396605, 7.3712428305056115
+BURE;8500131.0;Bure-Casernes;JU;SBB;2024;49.0;49.0;49.0;SBB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;47.45381897337911, 7.011529772699898
+BURE;8500131.0;Bure-Casernes;JU;SBB;2025;49.0;49.0;49.0;SBB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;47.45381897337911, 7.011529772699898
+BURN;8516350.0;Buchrain;LU;SBB;2022;2000.0;2300.0;1400.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.093649915105956, 8.356658501855094
+BW;8502034.0;Beinwil am See;AG;SBB;2018;940.0;1000.0;760.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.26721985887341, 8.202235544537363
+BWA;8507072.0;Burgistein;BE;BLS;2018;550.0;640.0;360.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.78943768491708, 7.5212267253146
+CABY;8501376.0;Chamby;VD;MOB;2023;130.0;140.0;110.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.44932194836268, 6.913514023979204
+CADE;8509359.0;Cadera;GR;RhB;2022;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.34524941442462, 10.051420259198997
+CAIO;8509367.0;Campascio;GR;RhB;2018;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.244595643980745, 10.131584809219147
+CAP;8505304.0;Capolago-Riva S. Vitale;TI;SBB;2025;1100.0;1200.0;730.0;SBB;Ohne MG.;Sans MG.;Senza MG.;Without MG.;http://lod.opentransportdata.swiss/didok/didok85;45.902837295752974, 8.97890525714865
+CAST;8505212.0;Castione-Arbedo;TI;SBB;2018;930.0;1000.0;660.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.22292165313785, 9.041461806217395
+CAUX;8501371.0;Caux;VD;MVR;2023;390.0;400.0;380.0;MVR;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.43113999744287, 6.938519995594227
+CAVA;8509358.0;Cavaglia;GR;RhB;2025;300.0;300.0;320.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.36423898239197, 10.043956846332462
+CAZI;8509188.0;Cazis;GR;RhB;2018;260.0;310.0;150.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.71991527647473, 9.432736278468296
+CAZI;8509188.0;Cazis;GR;RhB;2023;230.0;270.0;140.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.71991527647473, 9.432736278468296
+CAZI;8509188.0;Cazis;GR;RhB;2024;240.0;280.0;150.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.71991527647473, 9.432736278468296
+CC;8504203.0;Concise;VD;SBB;2023;49.0;60.0;49.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.85088154377158, 6.723157409168141
+CCH;8500141.0;Courchavon;JU;SBB;2018;60.0;70.0;49.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.43977439730051, 7.057645955822398
+CCH;8500141.0;Courchavon;JU;SBB;2025;49.0;60.0;49.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.43977439730051, 7.057645955822398
+CD;8505404.0;Cadenazzo;TI;SBB;2018;1600.0;1800.0;1100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.152619988738756, 8.941698899788753
+CDUE;8509069.0;Cavadürli;GR;RhB;2025;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.8706021941781, 9.867834387555522
+CELS;8509350.0;Celerina Staz;GR;RhB;2025;100.0;100.0;100.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.509749373241, 9.865024968959817
+CFO;8504321.0;La Chaux-de-Fonds Les Forges;NE;SBB;2022;160.0;180.0;110.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.091335323197484, 6.8127802604652326
+CFO;8504321.0;La Chaux-de-Fonds Les Forges;NE;SBB;2025;530.0;640.0;300.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.091335323197484, 6.8127802604652326
+CGY;8504133.0;Cugy FR;FR;SBB;2018;370.0;460.0;160.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.816028279183556, 6.889164589874837
+CGY;8504133.0;Cugy FR;FR;SBB;2022;500.0;630.0;200.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.816028279183556, 6.889164589874837
+CH;8509000.0;Chur;GR;SBB;2018;24300.0;24900.0;23000.0;RhB, SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.85308416276408, 9.528937733041323
+CHAA;8515995.0;Cham Alpenblick;ZG;SBB;2025;1500.0;1700.0;930.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.18228240397258, 8.471463275367592
+CHAM;8502203.0;Cham;ZG;SBB;2024;6100.0;7100.0;4000.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.17824387740836, 8.457504763732404
+CHAM;8502203.0;Cham;ZG;SBB;2025;5900.0;6800.0;3900.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.17824387740836, 8.457504763732404
+CHAR;8501501.0;Charrat-Fully;VS;SBB;2024;690.0;840.0;360.0;RegionAlps;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.126812879357765, 7.126476597938984
+CHAT;8504017.0;Châtillens;VD;SBB;2025;390.0;450.0;270.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.57053302432071, 6.815481520130104
+CHAU;8501393.0;La Chaudanne-Les Moulins;VD;MOB;2022;70.0;70.0;60.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.46605207107037, 7.096734699534454
+CHB;8501151.0;Les Charbonnières;VD;TRAVYS;2023;80.0;100.0;50.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.6642945398443, 6.317044772809531
+CHBL;8501266.0;Château-de-Blonay;VD;MVR;2022;320.0;360.0;230.0;MVR;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.46834999771031, 6.891749997286764
+CHEB;8516274.0;Chêne-Bourg;GE;SBB;2022;4000.0;4600.0;2400.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.19660016900358, 6.19733346411845
+CHEB;8516274.0;Chêne-Bourg;GE;SBB;2023;4800.0;5700.0;2900.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.19660016900358, 6.19733346411845
+CHEV;8501284.0;Les Chevalleyres;VD;MVR;2018;60.0;70.0;49.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.47559000215196, 6.898119996016441
+CHF;8501510.0;Châteauneuf-Conthey;VS;SBB;2024;1100.0;1400.0;470.0;RegionAlps;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.21610868973712, 7.305102199989551
+CHHO;8516272.0;Genève-Champel;GE;SBB;2022;4200.0;5200.0;1800.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.1921933443026, 6.153498724140746
+CHI;8505307.0;Chiasso;TI;SBB;2022;6800.0;7500.0;5200.0;SBB;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains en provenance ou à destination de l’étranger ne sont que partiellement recensées.;I passeggeri dall’estero che salgono e scendono dai treni sono considerati solo in parte.;Passengers boarding and alighting to/from abroad are only partially recorded.;http://lod.opentransportdata.swiss/didok/didok85;45.832168026366816, 9.031449562314267
+CHIZ;8501265.0;La Chiésaz;VD;MVR;2018;530.0;640.0;270.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.46950999820902, 6.88213000031258
+CHP;8504144.0;Yverdon-les-Bains-Champ Pittet;VD;SBB;2023;190.0;230.0;90.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.7821495936614, 6.662320118216995
+CHP;8504144.0;Yverdon-les-Bains-Champ Pittet;VD;SBB;2024;200.0;240.0;90.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.7821495936614, 6.662320118216995
+CHS;8504131.0;Cheyres;FR;SBB;2023;460.0;510.0;350.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.81694583078512, 6.786393706697188
+CHSA;8509150.0;Chur Altstadt;GR;RhB;2025;220.0;210.0;250.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.84752549026484, 9.530948416594292
+CHWE;8509050.0;Chur West;GR;RhB;2018;540.0;660.0;280.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.850396083993836, 9.514775835841315
+CHWE;8509050.0;Chur West;GR;RhB;2025;690.0;820.0;390.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.850396083993836, 9.514775835841315
+CHWI;8509006.0;Chur Wiesental;GR;RhB;2023;250.0;290.0;150.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.86191087578174, 9.53145471653567
+CHWI;8509006.0;Chur Wiesental;GR;RhB;2025;300.0;350.0;190.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.86191087578174, 9.53145471653567
+CHX;8504013.0;Chexbres-Village;VD;SBB;2024;560.0;590.0;510.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.48105723603592, 6.778537790555145
+CHY;8501020.0;Chambésy;GE;SBB;2025;1100.0;1200.0;750.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.24094485508302, 6.147304320702687
+CIN;8509260.0;Cinuos-chel-Brail;GR;RhB;2018;80.0;80.0;70.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.63774428230251, 10.021642133135988
+CL;8501203.0;Clarens;VD;SBB;2024;2400.0;2700.0;1700.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.44273829900727, 6.8957799366107455
+CN;8504123.0;Corcelles-Nord;VD;SBB;2022;150.0;160.0;110.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.835262111706534, 6.96029447415191
+CN;8504123.0;Corcelles-Nord;VD;SBB;2023;180.0;210.0;120.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.835262111706534, 6.96029447415191
+CN;8504123.0;Corcelles-Nord;VD;SBB;2024;190.0;230.0;130.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.835262111706534, 6.96029447415191
+CO;8504306.0;Cortébert;BE;SBB;2022;140.0;160.0;100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.18933714817653, 7.1073092043210515
+CO;8504306.0;Cortébert;BE;SBB;2024;180.0;190.0;140.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.18933714817653, 7.1073092043210515
+COI;8501007.0;Vernier;GE;SBB;2025;1200.0;1400.0;570.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.220718697502555, 6.093891707487846
+COMS;8501388.0;Les Combes;VD;MOB;2018;49.0;49.0;49.0;MOB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.477470000670024, 7.1718299957100795
+COMS;8501388.0;Les Combes;VD;MOB;2024;49.0;49.0;49.0;MOB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.477470000670024, 7.1718299957100795
+COP;8501023.0;Coppet;VD;SBB;2018;6400.0;7900.0;3000.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.31739357074577, 6.187827380950365
+COP;8501023.0;Coppet;VD;SBB;2023;7800.0;9100.0;4900.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.31739357074577, 6.187827380950365
+COP;8501023.0;Coppet;VD;SBB;2025;7600.0;8900.0;4900.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.31739357074577, 6.187827380950365
+CORC;8500266.0;Corcelles BE;BE;BLS;2023;49.0;49.0;49.0;SBB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;47.285665414648086, 7.450463120333196
+CORM;8504308.0;Cormoret;BE;SBB;2018;60.0;70.0;49.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.17294709932329, 7.054123568207503
+CORN;8504223.0;Cornaux;NE;SBB;2018;440.0;540.0;210.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.03857203125885, 7.023365662392411
+CORN;8504223.0;Cornaux NE;NE;SBB;2022;450.0;550.0;220.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.03857203125885, 7.023365662392411
+CORS;8504040.0;Corseaux-Cornalles;VD;SBB;2023;90.0;100.0;70.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.47045139363703, 6.824780802917796
+COS;8501115.0;Cossonay-Penthalaz;VD;SBB;2024;3900.0;4600.0;2400.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.6060100852867, 6.523689168142412
+COT;8504026.0;Cottens FR;FR;SBB;2025;670.0;830.0;310.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.75121262862555, 7.034794321109039
+COUS;8504136.0;Cousset;FR;SBB;2023;350.0;430.0;180.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.81860488055191, 6.977491130713583
+COUS;8504136.0;Cousset;FR;SBB;2024;360.0;450.0;170.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.81860488055191, 6.977491130713583
+CP;8504232.0;Corcelles-Peseux;NE;SBB;2018;590.0;690.0;370.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.98335097241861, 6.88381355417052
+CP;8504232.0;Corcelles-Peseux;NE;SBB;2023;720.0;810.0;510.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.98335097241861, 6.88381355417052
+CR;8501106.0;Croy-Romainmôtier;VD;SBB;2023;480.0;550.0;340.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.69671231859737, 6.4781162685524185
+CR;8501106.0;Croy-Romainmôtier;VD;SBB;2025;550.0;600.0;420.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.69671231859737, 6.4781162685524185
+CRDB;8501365.0;Crêt-d'y-Bau;VD;MVR;2023;49.0;49.0;49.0;MVR;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.43514999895173, 6.9553700014107545
+CRNE;8504224.0;Cressier NE;NE;SBB;2023;400.0;490.0;210.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.05195280516074, 7.039532072210011
+CS;8504135.0;Corcelles-Sud;VD;SBB;2022;450.0;540.0;230.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.828847373303596, 6.957192176936627
+CTM;8500127.0;Courtemaîche;JU;SBB;2024;110.0;130.0;70.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.45586918373691, 7.055380175122521
+CTT;8500120.0;Courtételle;JU;SBB;2018;380.0;450.0;230.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.342829008594485, 7.31794276823699
+CTT;8500120.0;Courtételle;JU;SBB;2024;840.0;950.0;590.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.342829008594485, 7.31794276823699
+CTY;8504307.0;Courtelary;BE;SBB;2022;460.0;540.0;280.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.17563154330843, 7.068803269981394
+DA;8506049.0;Dachsen;ZH;SBB;2022;760.0;820.0;630.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.66709049852094, 8.613822740634538
+DA;8506049.0;Dachsen;ZH;SBB;2025;940.0;1000.0;720.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.66709049852094, 8.613822740634538
+DAD;8509072.0;Davos Dorf;GR;RhB;2024;1700.0;1600.0;1900.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.809555358147875, 9.841827883588698
+DAE;8507494.0;Därligen;BE;BLS;2018;130.0;150.0;100.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.659764351558245, 7.814737353579366
+DAF;8509075.0;Davos Frauenkirch;GR;RhB;2024;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.76671261805352, 9.79933607723776
+DAM;8509077.0;Davos Monstein;GR;RhB;2024;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.715898030240496, 9.759847010247489
+DAV;8509073.0;Davos Platz;GR;RhB;2022;2500.0;2500.0;2500.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.79177493128396, 9.82100880716985
+DAV;8509073.0;Davos Platz;GR;RhB;2025;2600.0;2600.0;2800.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.79177493128396, 9.82100880716985
+DAY;8501104.0;Le Day;VD;SBB;2022;290.0;290.0;300.0;SBB, TRAVYS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.72003152823104, 6.399023786518672
+DE;8509181.0;Domat/Ems;GR;RhB;2022;1300.0;1500.0;870.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.83333565471815, 9.453145390045567
+DE;8509181.0;Domat/Ems;GR;RhB;2025;1700.0;1900.0;1300.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.83333565471815, 9.453145390045567
+DEU;8504231.0;Les Deurres;NE;SBB;2022;420.0;480.0;300.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.98552471175161, 6.899148428806808
+DG;8506292.0;Degersheim;SG;SOB;2022;1200.0;1300.0;780.0;SOB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.372578101749816, 9.20011957075183
+DG;8506292.0;Degersheim;SG;SOB;2023;1200.0;1300.0;790.0;SOB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.372578101749816, 9.20011957075183
+DI;8503315.0;Dielsdorf;ZH;SBB;2022;2600.0;3000.0;1700.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.48242050548955, 8.459443753213174
+DI;8503315.0;Dielsdorf;ZH;SBB;2025;3100.0;3700.0;1900.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.48242050548955, 8.459443753213174
+DIE;8500031.0;Diepflingen;BL;SBB;2024;180.0;210.0;110.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.44956050786628, 7.837717393677192
+DIE;8500031.0;Diepflingen;BL;SBB;2025;160.0;190.0;90.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.44956050786628, 7.837717393677192
+DIEN;8505174.0;Dieni;GR;MGB;2023;400.0;450.0;280.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.6699316334934, 8.742864999775684
+DIH;8506021.0;Dinhard;ZH;SBB;2018;220.0;220.0;220.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.55334514795391, 8.752980887390137
+DIH;8506021.0;Dinhard;ZH;SBB;2025;220.0;240.0;170.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.55334514795391, 8.752980887390137
+DMT;8500109.0;Delémont;JU;SBB;2018;6900.0;7900.0;4600.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.36201270009398, 7.350063323401273
+DMT;8500109.0;Delémont;JU;SBB;2024;8000.0;9000.0;5700.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.36201270009398, 7.350063323401273
+DN;8500209.0;Deitingen;SO;SBB;2025;530.0;620.0;330.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.21822579770602, 7.618913024824969
+DOE;8503501.0;Döttingen;AG;SBB;2018;2300.0;2700.0;1400.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.57526982038363, 8.256364673275831
+DOE;8503501.0;Döttingen;AG;SBB;2022;2100.0;2400.0;1300.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.57526982038363, 8.256364673275831
+DOE;8503501.0;Döttingen;AG;SBB;2025;2500.0;2900.0;1600.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.57526982038363, 8.256364673275831
+DON;8500220.0;Dotzigen;BE;SBB;2023;350.0;410.0;210.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.11867176921776, 7.337754285441774
+DOP;8504124.0;Dompierre FR;FR;SBB;2025;130.0;140.0;100.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.85440276234438, 6.98536880347736
+DOR;8500118.0;Dornach-Arlesheim;SO;SBB;2018;4800.0;5600.0;3100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.48861983603079, 7.611118941847514
+DOR;8500118.0;Dornach-Arlesheim;SO;SBB;2025;4500.0;5100.0;3100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.48861983603079, 7.611118941847514
+DSB;8503237.0;Diesbach-Betschwanden;GL;SBB;2024;100.0;100.0;100.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.9461808068525, 9.024373381879249
+DSH;8503428.0;Diessenhofen;TG;SBB;2023;1000.0;1100.0;820.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.68546822382189, 8.752299397885238
+DT;8503508.0;Dietikon;ZH;SBB;2024;21300.0;24400.0;14200.0;SBB;Ohne AVA.;Sans AVA.;Senza AVA.;Without AVA.;http://lod.opentransportdata.swiss/didok/didok85;47.40578380656623, 8.404988187894768
+DTF;8506202.0;Dietfurt;SG;SBB;2022;230.0;260.0;150.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.34455188311123, 9.078320289692625
+DTF;8506202.0;Dietfurt;SG;SBB;2023;260.0;300.0;170.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.34455188311123, 9.078320289692625
+DU;8502110.0;Dulliken;SO;SBB;2024;690.0;820.0;410.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.35427613722325, 7.946501331157318
+DUE;8503128.0;Dübendorf;ZH;SBB;2024;8100.0;9400.0;5100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.40008035994538, 8.623421744230843
+DUE;8503128.0;Dübendorf;ZH;SBB;2025;8500.0;9800.0;5400.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.40008035994538, 8.623421744230843
+DUED;8504101.0;Düdingen;FR;SBB;2024;3700.0;4300.0;2400.0;BLS, SBB, TPF;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.85105245533772, 7.1897532100125545
+EB;8507471.0;Eggerberg;VS;BLS;2018;60.0;60.0;80.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.30654629811991, 7.881032719189432
+EBG;8508399.0;Engelberg;OW;ZB;2025;2700.0;2200.0;3600.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.81952045956759, 8.402507409093726
+EBI;8502200.0;Ebikon;LU;SBB;2025;2400.0;2600.0;1800.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.08426271807694, 8.342358256170456
+EBIS;8507296.0;Erlenbach im Simmental;BE;BLS;2022;340.0;350.0;330.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.6590917783173, 7.555235196144517
+EBLI;8508304.0;Ebligen;BE;ZB;2022;49.0;49.0;49.0;Zentralbahn;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.752624162753044, 7.9900369889331975
+EBLI;8508304.0;Ebligen;BE;ZB;2024;49.0;49.0;49.0;Zentralbahn;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.752624162753044, 7.9900369889331975
+ECTS;8501364.0;Les Echets;VD;MVR;2022;49.0;49.0;49.0;MVR;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.432179995320055, 6.94489000573515
+ECU;8504018.0;Ecublens-Rue;FR;SBB;2024;100.0;100.0;80.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.61043023973681, 6.811054981244529
+EDA;8503231.0;Ennenda;GL;SBB;2023;720.0;800.0;540.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.03295954319156, 9.077193805088344
+EDA;8503231.0;Ennenda;GL;SBB;2024;720.0;800.0;540.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.03295954319156, 9.077193805088344
+EF;8503305.0;Effretikon;ZH;SBB;2022;15300.0;17500.0;10300.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.42581205990943, 8.686679144438356
+EGL;8503402.0;Eglisau;ZH;SBB;2018;1600.0;1900.0;1100.0;SBB, Thurbo;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;http://lod.opentransportdata.swiss/didok/didok85;47.57237454699683, 8.516558015858315
+EGL;8503402.0;Eglisau;ZH;SBB;2023;1800.0;2000.0;1400.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.57237454699683, 8.516558015858315
+EGL;8503402.0;Eglisau;ZH;SBB;2024;1900.0;2100.0;1500.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.57237454699683, 8.516558015858315
+EGN;8506309.0;Egnach;TG;SBB;2025;380.0;410.0;320.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.54399130382679, 9.383017484104617
+EI;8500304.0;Eiken;AG;SBB;2025;350.0;410.0;220.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.53304427369629, 7.989797553151227
+EIF;8507288.0;Eifeld;BE;BLS;2018;49.0;49.0;49.0;BLS;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.68386875528785, 7.642273130363462
+EIF;8507288.0;Eifeld;BE;BLS;2022;70.0;90.0;49.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.68386875528785, 7.642273130363462
+EIS;8503283.0;Einsiedeln;SZ;SOB;2023;3900.0;4100.0;3600.0;SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.12858171886772, 8.744477746563021
+EIS;8503283.0;Einsiedeln;SZ;SOB;2024;4200.0;4300.0;4100.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.12858171886772, 8.744477746563021
+EIS;8503283.0;Einsiedeln;SZ;SOB;2025;4300.0;4400.0;4100.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.12858171886772, 8.744477746563021
+EK;8506297.0;Ebnat-Kappel;SG;SOB;2018;440.0;480.0;360.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.263666410709654, 9.120987482254936
+EL;8506014.0;Elgg;ZH;SBB;2018;1600.0;1800.0;1000.0;SBB, Thurbo;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;http://lod.opentransportdata.swiss/didok/didok85;47.49852908812923, 8.863411586209892
+EL;8506014.0;Elgg;ZH;SBB;2024;1800.0;2000.0;1300.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.49852908812923, 8.863411586209892
+EMB;8506041.0;Embrach-Rorbas;ZH;SBB;2025;1800.0;2100.0;1100.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.5205902402333, 8.587068848734443
+EMSW;8509182.0;Domat/Ems Werk;GR;RhB;2024;410.0;530.0;140.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.828631170076484, 9.430625736908866
+ENGE;8507284.0;Enge im Simmental;BE;BLS;2022;49.0;49.0;49.0;BLS;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.64753323787416, 7.417624444406309
+ENGE;8507284.0;Enge im Simmental;BE;BLS;2024;49.0;49.0;49.0;BLS;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.64753323787416, 7.417624444406309
+EP;8501110.0;Ependes VD;VD;SBB;2023;110.0;120.0;70.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.74641611110667, 6.607661874433928
+EP;8501110.0;Ependes VD;VD;SBB;2024;100.0;120.0;60.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.74641611110667, 6.607661874433928
+EPS;8501125.0;Epesses;VD;SBB;2022;180.0;150.0;240.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.48932879519122, 6.745166034120104
+EPS;8501125.0;Epesses;VD;SBB;2024;220.0;160.0;340.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.48932879519122, 6.745166034120104
+ERL;8506107.0;Erlen;TG;SBB;2022;620.0;730.0;350.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.55146027649124, 9.226201980586525
+ERLB;8503102.0;Erlenbach ZH;ZH;SBB;2022;3200.0;3600.0;2200.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.305791959220436, 8.59152235724792
+ESB;8502022.0;Eschenbach;LU;SBB;2018;750.0;850.0;530.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.13239599982784, 8.322790731804622
+ESB;8502022.0;Eschenbach LU;LU;SBB;2022;740.0;830.0;550.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.13239599982784, 8.322790731804622
+ESCH;8508210.0;Escholzmatt;LU;SBB;2022;880.0;930.0;750.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.915348231390944, 7.936377957659939
+ESEE;8502019.0;Ermensee;LU;SBB;2018;120.0;140.0;90.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.229690615754194, 8.242314423575365
+ESEE;8502019.0;Ermensee;LU;SBB;2023;170.0;190.0;120.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.229690615754194, 8.242314423575365
+ESEE;8502019.0;Ermensee;LU;SBB;2024;200.0;230.0;120.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.229690615754194, 8.242314423575365
+ESL;8506011.0;Eschlikon TG;TG;SBB;2022;1200.0;1300.0;890.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.461491059028106, 8.958536201906604
+ESL;8506011.0;Eschlikon TG;TG;SBB;2025;1400.0;1600.0;930.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.461491059028106, 8.958536201906604
+EST;8504132.0;Estavayer-le-Lac;FR;SBB;2022;1400.0;1700.0;920.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.844498848680395, 6.842967233408461
+EST;8504132.0;Estavayer-le-Lac;FR;SBB;2023;1500.0;1700.0;940.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.844498848680395, 6.842967233408461
+ETOY;8501042.0;Etoy;VD;SBB;2018;1300.0;1600.0;470.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.475172741371445, 6.427135355558961
+EV;8501404.0;Evionnaz;VS;SBB;2025;400.0;510.0;180.0;RegionAlps, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.16925438008294, 7.0255181527133255
+EWMA;8508327.0;Ewil Maxon;OW;ZB;2024;310.0;400.0;100.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.86068774985932, 8.218596368755625
+FA;8505204.0;Faido;TI;SBB;2022;260.0;260.0;240.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.48307550405715, 8.790710106817194
+FA;8505204.0;Faido;TI;SBB;2023;280.0;280.0;260.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.48307550405715, 8.790710106817194
+FAY;8501285.0;Fayaux;VD;MVR;2018;49.0;49.0;49.0;MOB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.46997999961394, 6.907630005853654
+FBG;8509180.0;Felsberg;GR;RhB;2023;220.0;260.0;130.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.84314650968045, 9.481457811510744
+FCK;8500305.0;Frick;AG;SBB;2023;4900.0;5400.0;3800.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.50734852393637, 8.013092462834773
+FEL;8506101.0;Felben-Wellhausen;TG;SBB;2023;540.0;620.0;350.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.57710212728692, 8.943174823204536
+FF;8506100.0;Frauenfeld;TG;SBB;2018;10400.0;11800.0;7100.0;SBB, Thurbo;Ohne FW.;Sans FW.;Senza FW.;Without FW.;http://lod.opentransportdata.swiss/didok/didok85;47.5581634045698, 8.896559673414256
+FID;8509063.0;Fideris;GR;RhB;2018;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.92223569925378, 9.733825113420828
+FID;8509063.0;Fideris;GR;RhB;2022;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.92223569925378, 9.733825113420828
+FID;8509063.0;Fideris;GR;RhB;2025;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.92223569925378, 9.733825113420828
+FIE;8501672.0;Fiesch;VS;MGB;2024;1500.0;1400.0;1700.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.40628476913088, 8.134191752803012
+FL;8505112.0;Flüelen;UR;SBB;2018;1800.0;1800.0;1900.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.90173016545787, 8.624302653092034
+FL;8505112.0;Flüelen;UR;SBB;2024;1000.0;950.0;1200.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.90173016545787, 8.624302653092034
+FLA;8506209.0;Flawil;SG;SBB;2024;3700.0;4300.0;2500.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.41518938373985, 9.189785591411313
+FLED;8501396.0;Flendruz;VD;MOB;2022;50.0;50.0;49.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.48208999459528, 7.186070004776346
+FMS;8509413.0;Flums;SG;SBB;2025;620.0;680.0;500.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.096616653255786, 9.347929247885018
+FR;8507478.0;Frutigen;BE;BLS;2023;2500.0;2600.0;2200.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.588907542807625, 7.651418314540159
+FRAE;8504401.0;Fräschels;FR;SBB;2024;80.0;90.0;60.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.99912608811563, 7.206040061447464
+FRB;8503210.0;Freienbach SBB;SZ;SBB;2018;490.0;560.0;330.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.2073107080164, 8.756218599729324
+FRB;8503210.0;Freienbach SBB;SZ;SBB;2025;490.0;540.0;360.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.2073107080164, 8.756218599729324
+FRE;8500022.0;Frenkendorf-Füllinsdorf;BL;SBB;2018;3700.0;4300.0;2400.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.50146999108255, 7.719110531551347
+FRI;8504100.0;Fribourg/Freiburg;FR;SBB;2018;20100.0;23000.0;13600.0;BLS, SBB;Ohne TPF.;Sans TPF.;Senza TPF.;Without TPF.;http://lod.opentransportdata.swiss/didok/didok85;46.80314817217614, 7.151046883336622
+FRI;8504100.0;Fribourg/Freiburg;FR;SBB;2025;30800.0;34600.0;22100.0;BLS, SBB, TPF;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.80314817217614, 7.151046883336622
+FT;8503425.0;Feuerthalen;ZH;SBB;2024;330.0;370.0;260.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.69216947826751, 8.645968428863812
+FT;8503425.0;Feuerthalen;ZH;SBB;2025;310.0;340.0;250.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.69216947826751, 8.645968428863812
+FTAN;8509267.0;Ftan Baraigla;GR;RhB;2023;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.78772272161879, 10.257983107439244
+FUER;8501671.0;Fürgangen-Bellwald Talstation;VS;MGB;2022;370.0;360.0;390.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.41189742983623, 8.152316822968858
+FUER;8501671.0;Fürgangen-Bellwald Talstation;VS;MGB;2023;360.0;320.0;460.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.41189742983623, 8.152316822968858
+FUER;8501671.0;Fürgangen-Bellwald Talstation;VS;MGB;2025;290.0;280.0;300.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.41189742983623, 8.152316822968858
+FURN;8509061.0;Furna;GR;RhB;2022;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.93954940456281, 9.708982065317167
+FURN;8509061.0;Furna;GR;RhB;2024;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.93954940456281, 9.708982065317167
+FURN;8509061.0;Furna;GR;RhB;2025;49.0;49.0;49.0;RhB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.93954940456281, 9.708982065317167
+GA;8501603.0;Gampel-Steg;VS;SBB;2025;800.0;930.0;500.0;RegionAlps, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.30651548089102, 7.74758116307051
+GAE;8500265.0;Gänsbrunnen;BE;BLS;2022;190.0;180.0;190.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.26565247512795, 7.464915731114478
+GAE;8500265.0;Gänsbrunnen;BE;BLS;2025;49.0;49.0;60.0;SBB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;47.26565247512795, 7.464915731114478
+GAS;8507085.0;Gasel;BE;BLS;2022;330.0;370.0;250.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.900928013283654, 7.400691911822366
+GAS;8507085.0;Gasel;BE;BLS;2024;370.0;420.0;280.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.900928013283654, 7.400691911822366
+GAS;8507085.0;Gasel;BE;BLS;2025;390.0;450.0;260.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.900928013283654, 7.400691911822366
+GD;8505004.0;Arth-Goldau;SZ;SBB;2022;17300.0;16800.0;18600.0;SBB, SOB;Ohne RB.;Sans RB.;Senza RB.;Without RB.;http://lod.opentransportdata.swiss/didok/didok85;47.04904488341463, 8.549446300669958
+GD;8505004.0;Arth-Goldau;SZ;SBB;2024;18800.0;18500.0;19300.0;SBB, SOB;Ohne RB.;Sans RB.;Senza RB.;Without RB.;http://lod.opentransportdata.swiss/didok/didok85;47.04904488341463, 8.549446300669958
+GDA;8505402.0;Gordola;TI;SBB;2018;700.0;780.0;520.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.17904027239146, 8.865773290075774
+GDA;8505402.0;Gordola;TI;SBB;2024;770.0;870.0;540.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.17904027239146, 8.865773290075774
+GE;8501008.0;Genève;GE;SBB;2024;80600.0;89800.0;60100.0;SBB, RegionAlps;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains en provenance ou à destination de l’étranger ne sont que partiellement recensées.;I passeggeri dall’estero che salgono e scendono dai treni sono considerati solo in parte.;Passengers boarding and alighting to/from abroad are only partially recorded.;http://lod.opentransportdata.swiss/didok/didok85;46.210212898757526, 6.142451595144949
+GER;8505410.0;Gerra (Gambarogno);TI;SBB;2018;49.0;49.0;49.0;SBB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.122040960463664, 8.784969770595186
+GESE;8516283.0;Genève-Sécheron;GE;SBB;2018;1200.0;1600.0;220.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.22244030850258, 6.1445611504026765
+GEV;8516273.0;Genève-Eaux-Vives;GE;SBB;2025;9900.0;11700.0;6200.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.20144540651997, 6.16656958815968
+GF;8503401.0;Glattfelden;ZH;SBB;2018;1000.0;1200.0;600.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.54855798112098, 8.524055190179887
+GF;8503401.0;Glattfelden;ZH;SBB;2023;1000.0;1200.0;680.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.54855798112098, 8.524055190179887
+GI;8508312.0;Giswil;OW;ZB;2018;960.0;1000.0;820.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.836534400088155, 8.186317691629599
+GI;8508312.0;Giswil;OW;ZB;2025;1500.0;1600.0;1300.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.836534400088155, 8.186317691629599
+GIB;8503137.0;Gibswil;ZH;SBB;2018;250.0;280.0;190.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.31372010487759, 8.915510558534958
+GIB;8503137.0;Gibswil;ZH;SBB;2025;390.0;450.0;250.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.31372010487759, 8.915510558534958
+GIU;8505214.0;Giubiasco;TI;SBB;2018;6700.0;8100.0;3600.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.17381273153785, 9.003600088956835
+GIU;8505214.0;Giubiasco;TI;SBB;2025;5700.0;6800.0;3400.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.17381273153785, 9.003600088956835
+GL;8503230.0;Glarus;GL;SBB;2023;3000.0;3300.0;2200.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.03992414359789, 9.071566413357488
+GLA;8501031.0;Gland;VD;SBB;2018;5500.0;7000.0;2300.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.41998647124227, 6.269139833631339
+GLA;8501031.0;Gland;VD;SBB;2022;5800.0;7000.0;3200.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.41998647124227, 6.269139833631339
+GLB;8503310.0;Glattbrugg;ZH;SBB;2022;5400.0;6300.0;3100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.4308267156281, 8.558854148745313
+GLF;8508088.0;Gerlafingen;SO;BLS;2018;590.0;660.0;410.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.170562946841095, 7.565289390326672
+GLO;8500123.0;Glovelier;JU;SBB;2018;890.0;1000.0;610.0;SBB;Ohne CJ.;Sans CJ.;Senza CJ.;Without CJ.;http://lod.opentransportdata.swiss/didok/didok85;47.33520951994376, 7.209312768167123
+GLO;8500123.0;Glovelier;JU;SBB;2023;1000.0;1100.0;790.0;SBB;Ohne CJ.;Sans CJ.;Senza CJ.;Without CJ.;http://lod.opentransportdata.swiss/didok/didok85;47.33520951994376, 7.209312768167123
+GLO;8500123.0;Glovelier;JU;SBB;2025;1000.0;1100.0;700.0;SBB;Ohne CJ.;Sans CJ.;Senza CJ.;Without CJ.;http://lod.opentransportdata.swiss/didok/didok85;47.33520951994376, 7.209312768167123
+GLUR;8501667.0;Gluringen;VS;MGB;2018;80.0;80.0;80.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.46278231133782, 8.233906714425745
+GLUR;8501667.0;Gluringen;VS;MGB;2025;130.0;140.0;120.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.46278231133782, 8.233906714425745
+GLZB;8503512.0;Glanzenberg;ZH;SBB;2022;3700.0;4100.0;2600.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.39887872505403, 8.42044187660217
+GMM;8504486.0;Gümmenen;BE;BLS;2023;740.0;840.0;500.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.9421821972861, 7.234409397561144
+GN;8500159.0;Grenchen Nord;SO;BLS;2022;1500.0;1800.0;790.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.19169820509852, 7.389618662888506
+GN;8500159.0;Grenchen Nord;SO;BLS;2023;1800.0;2200.0;1100.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.19169820509852, 7.389618662888506
+GN;8500159.0;Grenchen Nord;SO;BLS;2024;1600.0;1900.0;790.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.19169820509852, 7.389618662888506
+GOE;8505119.0;Göschenen;UR;SBB;2018;1800.0;1600.0;2200.0;MGB, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.665814939433695, 8.588808225484476
+GOE;8505119.0;Göschenen;UR;SBB;2025;2800.0;2400.0;3600.0;MGB, SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.665814939433695, 8.588808225484476
+GOL;8506305.0;Goldach;SG;SBB;2022;1500.0;1600.0;1100.0;SOB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.47379815015068, 9.466996927361095
+GOL;8506305.0;Goldach;SG;SBB;2024;1800.0;2000.0;1300.0;SBB, SOB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.47379815015068, 9.466996927361095
+GOR;8504205.0;Gorgier-St-Aubin;NE;SBB;2023;690.0;770.0;490.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.89907614599237, 6.781025965556291
+GOR;8504205.0;Gorgier-St-Aubin;NE;SBB;2024;660.0;740.0;470.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.89907614599237, 6.781025965556291
+GP;8504482.0;Gampelen;BE;BLS;2018;150.0;150.0;130.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.009363626826044, 7.056442270506158
+GP;8504482.0;Gampelen;BE;BLS;2024;160.0;180.0;130.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.009363626826044, 7.056442270506158
+GRA;8500143.0;Grandgourt;JU;SBB;2018;49.0;49.0;49.0;SBB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;47.46992014688597, 7.048107660127894
+GRA;8500143.0;Grandgourt;JU;SBB;2022;49.0;49.0;49.0;SBB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;47.46992014688597, 7.048107660127894
+GRAC;8501395.0;Les Granges-Gérignoz;VD;MOB;2023;70.0;80.0;49.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.47416521951939, 7.154950370976045
+GRAF;8508396.0;Grafenort;OW;ZB;2018;80.0;70.0;100.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.870597175945534, 8.372423756891678
+GREL;8500115.0;Grellingen;BL;SBB;2022;1300.0;1400.0;930.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.441294895239395, 7.591988354792369
+GREN;8501674.0;Grengiols;VS;MGB;2018;150.0;150.0;140.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.37521116888874, 8.09168220562712
+GREN;8501674.0;Grengiols;VS;MGB;2023;200.0;220.0;170.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.37521116888874, 8.09168220562712
+GRMA;8508271.0;Grünenmatt;BE;BLS;2022;170.0;190.0;120.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.00840034001103, 7.72390423295194
+GRMA;8508271.0;Grünenmatt;BE;BLS;2023;190.0;210.0;150.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.00840034001103, 7.72390423295194
+GRS;8504201.0;Grandson;VD;SBB;2018;710.0;840.0;430.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.80628338337734, 6.641943740303492
+GRS;8504201.0;Grandson;VD;SBB;2023;910.0;1000.0;610.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.80628338337734, 6.641943740303492
+GRS;8504201.0;Grandson;VD;SBB;2024;1100.0;1200.0;650.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.80628338337734, 6.641943740303492
+GRS;8504201.0;Grandson;VD;SBB;2025;1200.0;1300.0;780.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.80628338337734, 6.641943740303492
+GRV;8504011.0;Grandvaux;VD;SBB;2023;660.0;730.0;510.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.49694824046734, 6.722650186115819
+GS;8500202.0;Grenchen Süd;SO;SBB;2025;4800.0;5500.0;3000.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.1887746886701, 7.398180061160913
+GSAG;8502028.0;Emmenbrücke Gersag;LU;SBB;2022;3000.0;3400.0;2200.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.078314178255006, 8.276820079539918
+GSAG;8502028.0;Emmenbrücke Gersag;LU;SBB;2025;3700.0;4300.0;2500.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.078314178255006, 8.276820079539918
+GSK;8502201.0;Gisikon-Root;LU;SBB;2024;1600.0;1700.0;1200.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.12132766775897, 8.394788526650432
+GSS;8506210.0;Gossau SG;SG;SBB;2025;7700.0;8100.0;6600.0;SBB, Thurbo;Ohne AB.;Sans AB.;Senza AB.;Without AB.;http://lod.opentransportdata.swiss/didok/didok85;47.41183157854838, 9.253050693333577
+GST;8501399.0;Gstaad;BE;MOB;2018;1600.0;1600.0;1700.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.47494533284306, 7.284225450908991
+GUA;8509265.0;Guarda;GR;RhB;2022;190.0;180.0;200.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.77152425340739, 10.150485896903705
+GUA;8509265.0;Guarda;GR;RhB;2025;290.0;290.0;300.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.77152425340739, 10.150485896903705
+GUBU;8508174.0;Gutenburg;BE;BLS;2023;49.0;49.0;49.0;BLS;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;47.181790926733974, 7.793291295489822
+GUBU;8508174.0;Gutenburg;BE;BLS;2025;49.0;49.0;49.0;BLS;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;47.181790926733974, 7.793291295489822
+GUE;8507003.0;Gümligen;BE;SBB;2018;4000.0;4800.0;2200.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.93432191878642, 7.505504796286874
+GUE;8507003.0;Gümligen;BE;SBB;2024;4000.0;4600.0;2400.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.93432191878642, 7.505504796286874
+GUE;8507003.0;Gümligen;BE;SBB;2025;3900.0;4500.0;2600.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.93432191878642, 7.505504796286874
+GUN;8506012.0;Guntershausen;TG;SBB;2018;350.0;410.0;240.0;Thurbo;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;http://lod.opentransportdata.swiss/didok/didok85;47.474121355749475, 8.917032104095119
+GUN;8506012.0;Guntershausen;TG;SBB;2025;380.0;420.0;280.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.474121355749475, 8.917032104095119
+GVAL;8500268.0;Grandval;BE;BLS;2022;49.0;49.0;49.0;SBB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;47.28358889876702, 7.421882090808674
+HAE;8500215.0;Hägendorf;SO;SBB;2023;1300.0;1600.0;760.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.33026780297666, 7.843816396453368
+HAE;8500215.0;Hägendorf;SO;SBB;2024;1300.0;1500.0;710.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.33026780297666, 7.843816396453368
+HALD;8509051.0;Haldenstein;GR;RhB;2023;60.0;70.0;49.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.876977993901036, 9.533062022090263
+HAS;8508212.0;Hasle LU;LU;SBB;2023;130.0;150.0;90.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.978151663178835, 8.046981752038914
+HAS;8508212.0;Hasle LU;LU;SBB;2024;140.0;150.0;100.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.978151663178835, 8.046981752038914
+HD;8502031.0;Hallwil;AG;SBB;2018;180.0;200.0;120.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.32863875662228, 8.17594945532923
+HD;8502031.0;Hallwil;AG;SBB;2023;250.0;290.0;160.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.32863875662228, 8.17594945532923
+HDC;8501357.0;Haut-de-Caux;VD;MVR;2018;180.0;150.0;250.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.43436999948614, 6.947949994598162
+HEBG;8506317.0;Heerbrugg;SG;SBB;2025;4500.0;5200.0;2900.0;SBB, SOB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.41039250657927, 9.627248828197752
+HEBR;8501686.0;Herbriggen;VS;MGB;2022;320.0;330.0;290.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.13214787820845, 7.791634902630947
+HEN;8504141.0;Henniez;VD;SBB;2025;80.0;90.0;49.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.73500140626439, 6.87010587846571
+HET;8506045.0;Hettlingen;ZH;SBB;2018;660.0;730.0;490.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.545441446465944, 8.694834153058263
+HET;8506045.0;Hettlingen;ZH;SBB;2023;1100.0;1200.0;800.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.545441446465944, 8.694834153058263
+HG;8503204.0;Horgen;ZH;SBB;2022;7300.0;8500.0;4600.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.26148337461028, 8.596916996571368
+HGO;8502208.0;Horgen Oberdorf;ZH;SBB;2022;2000.0;2300.0;1100.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.25874981469799, 8.589815820934767
+HGV;8504237.0;Les Hauts-Geneveys;NE;SBB;2023;1100.0;1300.0;540.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.04717656310454, 6.874673129276449
+HGW;8508318.0;Hergiswil;NW;ZB;2018;2700.0;3000.0;2000.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.98261792835258, 8.310182802268203
+HI;8503130.0;Hinwil;ZH;SBB;2018;2600.0;2900.0;1800.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.30005695036496, 8.839719894409953
+HI;8503130.0;Hinwil;ZH;SBB;2024;2700.0;3000.0;2000.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.30005695036496, 8.839719894409953
+HM;8506102.0;Hüttlingen-Mettendorf;TG;SBB;2022;150.0;160.0;110.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.58234363610623, 8.974555007577901
+HMB;8508253.0;Heimberg;BE;BLS;2023;580.0;660.0;420.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.79087368288723, 7.606130707538887
+HN;8506307.0;Horn;TG;SBB;2018;510.0;560.0;400.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.49317998027562, 9.463387883336722
+HN;8506307.0;Horn;TG;SBB;2023;600.0;650.0;500.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.49317998027562, 9.463387883336722
+HOBK;8502128.0;Holderbank AG;AG;SBB;2018;310.0;390.0;140.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.42864252972158, 8.166622369063539
+HOBK;8502128.0;Holderbank AG;AG;SBB;2022;250.0;290.0;140.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.42864252972158, 8.166622369063539
+HOS;8505164.0;Hospental;UR;MGB;2022;150.0;170.0;110.0;MGB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.62108226604852, 8.570964353852949
+HOSA;8502042.0;Hochdorf Schönau;LU;SBB;2022;630.0;710.0;440.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.164569323416835, 8.298733635090635
+HOSA;8502042.0;Hochdorf Schönau;LU;SBB;2025;860.0;1000.0;500.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.164569323416835, 8.298733635090635
+HPT;8506212.0;Hauptwil;TG;SBB;2025;260.0;300.0;160.0;Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.476866593431176, 9.25159153379684
+HT;8507473.0;Hohtenn;VS;BLS;2018;70.0;60.0;100.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.32245880492026, 7.764086887424313
+HT;8507473.0;Hohtenn;VS;BLS;2022;50.0;49.0;70.0;BLS;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.32245880492026, 7.764086887424313
+HT;8507473.0;Hohtenn;VS;BLS;2025;70.0;60.0;90.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.32245880492026, 7.764086887424313
+HTV;8501262.0;Hauteville;VD;MVR;2018;130.0;170.0;60.0;MOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.46625999502058, 6.8608899965644365
+HTV;8501262.0;Hauteville;VD;MVR;2023;160.0;200.0;80.0;MVR;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.46625999502058, 6.8608899965644365
+HU;8502104.0;Hunzenschwil;AG;SBB;2018;550.0;650.0;310.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.38828588616155, 8.12569323096962
+HU;8502104.0;Hunzenschwil;AG;SBB;2025;690.0;820.0;390.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.38828588616155, 8.12569323096962
+HUCH;8502306.0;Hünenberg Chämleten;ZG;SBB;2024;240.0;260.0;210.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.169159420183846, 8.449908537945834
+HUE;8508292.0;Hüswil;LU;BLS;2018;60.0;60.0;50.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.12857430434106, 7.905862952587111
+HUE;8508292.0;Hüswil;LU;BLS;2022;60.0;60.0;60.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.12857430434106, 7.905862952587111
+HUEW;8503403.0;Hüntwangen-Wil;ZH;SBB;2023;1400.0;1600.0;980.0;SBB, Thurbo;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.5812688988791, 8.512848049738306
+HUR;8503299.0;Hurden;SZ;SOB;2024;180.0;180.0;190.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.214146345630695, 8.800745727606714
+HUZY;8515996.0;Hünenberg Zythus;ZG;SBB;2024;1300.0;1500.0;780.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.17360756726207, 8.450095247059698
+HUZY;8515996.0;Hünenberg Zythus;ZG;SBB;2025;1200.0;1400.0;760.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.17360756726207, 8.450095247059698
+HW;8508319.0;Horw;LU;ZB;2022;2200.0;2500.0;1400.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.017480156869254, 8.306992215004612
+HW;8508319.0;Horw;LU;ZB;2024;3200.0;3700.0;2100.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.017480156869254, 8.306992215004612
+HWIL;8508187.0;Huttwil;BE;BLS;2022;1200.0;1400.0;890.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.114490041902286, 7.842607662822634
+HWIL;8508187.0;Huttwil;BE;BLS;2025;1400.0;1600.0;1000.0;BLS;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.114490041902286, 7.842607662822634
+IGIS;8509055.0;Igis;GR;RhB;2022;530.0;560.0;450.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.949665686205876, 9.56479383170437
+IL;8503303.0;Illnau;ZH;SBB;2025;2100.0;2500.0;1300.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.40881918966084, 8.722727521427508
+ILZ;8509171.0;Ilanz;GR;RhB;2024;2100.0;2200.0;1800.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.775248713031715, 9.207717986624717
+IM;8505003.0;Immensee;SZ;SBB;2023;350.0;400.0;230.0;SBB, SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.09161865910385, 8.46267203624508
+IMHO;8500263.0;Im Holz;SO;BLS;2018;100.0;110.0;80.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.23092079231314, 7.474794878451989
+INN;8508359.0;Innertkirchen Kraftwerk (Bahn);BE;ZB;2022;180.0;220.0;90.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.7022612910456, 8.232509167474493
+INN;8508359.0;Innertkirchen Kraftwerk (Bahn);BE;ZB;2025;250.0;310.0;120.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.7022612910456, 8.232509167474493
+INNP;8508395.0;Innertkirchen Grimseltor;BE;ZB;2025;390.0;370.0;430.0;Zentralbahn;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.70557595485115, 8.22959307023548
+INUN;8530800.0;Innertkirchen Unterwasser;BE;ZB;2023;49.0;49.0;49.0;Zentralbahn;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.70809694291048, 8.226079365141784
+INUN;8530800.0;Innertkirchen Unterwasser;BE;ZB;2024;49.0;49.0;49.0;Zentralbahn;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.70809694291048, 8.226079365141784
+IO;8507492.0;Interlaken Ost;BE;BOB;2022;10700.0;10300.0;11500.0;BLS, SBB, Zentralbahn;Ohne BOB.;Sans BOB.;Senza BOB.;Without BOB.;http://lod.opentransportdata.swiss/didok/didok85;46.69049999618799, 7.869000004346448
+IT;8500025.0;Itingen;BL;SBB;2018;990.0;1200.0;610.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.46727871777734, 7.787225979669531
+IT;8500025.0;Itingen;BL;SBB;2022;1000.0;1200.0;620.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.46727871777734, 7.787225979669531
+IW;8507493.0;Interlaken West;BE;BLS;2022;5000.0;5200.0;4700.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.68262798035661, 7.851453137595281
+JAMA;8501367.0;Jaman;VD;MVR;2022;100.0;70.0;180.0;MVR;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.44133999970815, 6.976790003045374
+JAZ;8509062.0;Jenaz;GR;RhB;2024;290.0;290.0;270.0;RhB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.92959533367683, 9.718564152855068
+JE;8503421.0;Jestetten;Ausland;SBB;2018;1100.0;1200.0;660.0;SBB, Thurbo;;;;;;
+JE;8503421.0;Jestetten;Ausland;SBB;2022;910.0;1000.0;600.0;SBB, Thurbo;;;;;;
+JO;8503120.0;Jona;SG;SBB;2018;5200.0;6000.0;3200.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.230976641512754, 8.834618052524483
+JO;8503120.0;Jona;SG;SBB;2022;4900.0;5500.0;3400.0;SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.230976641512754, 8.834618052524483
+JOR;8501386.0;Jor;VD;MOB;2018;49.0;49.0;49.0;MOB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.45467000154823, 6.965120006203416
+JOR;8501386.0;Jor;VD;MOB;2022;49.0;49.0;49.0;MOB;49: weniger als 50 Ein- und Aussteigende.;49: moins de 50 personnes.;49: meno di 50 persone.;49: fewer than 50 persons.;http://lod.opentransportdata.swiss/didok/didok85;46.45467000154823, 6.965120006203416
+KA;8507475.0;Kandersteg;BE;BLS;2024;1400.0;1300.0;1700.0;BLS, SBB;;;;;http://lod.opentransportdata.swiss/didok/didok85;46.4953966505376, 7.671412558800185
+KAB;8503117.0;Kaltbrunn;SG;SBB;2022;250.0;290.0;170.0;SOB;;;;;http://lod.opentransportdata.swiss/didok/didok85;47.2179832084201, 9.022431024029464

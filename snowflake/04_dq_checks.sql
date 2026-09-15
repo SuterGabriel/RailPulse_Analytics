@@ -38,11 +38,12 @@ FROM (
        - (SELECT COUNT(*) FROM FACT_STOP_EVENT) AS diff
 );
 
--- 4. Implausible delays (more than 5 h late or 30 min early)
+-- 4. Implausible delays excluded from KPIs (more than 5 h late or 30 min
+--    early). A handful per week is normal; a jump signals a feed problem.
 INSERT INTO dq_results
-SELECT 'implausible_delays', 'WARN', COUNT(*), IFF(COUNT(*) = 0, 'OK', 'FAIL')
+SELECT 'implausible_excluded', 'WARN', COUNT(*), IFF(COUNT(*) <= 50, 'OK', 'FAIL')
 FROM FACT_STOP_EVENT
-WHERE arrival_delay_min > 300 OR arrival_delay_min < -30;
+WHERE measurement_issue = 'implausible';
 
 -- 5. Punctuality rate in a plausible band (Swiss rail is usually 85 to 95 %)
 INSERT INTO dq_results

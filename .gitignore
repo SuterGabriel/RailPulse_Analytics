@@ -1,0 +1,37 @@
+# --- Data (raw downloads are large and licensed separately; only data/sample is versioned) ---
+data/*
+!data/sample/
+!data/sample/**
+!data/README.md
+*.csv.zip
+*.zip
+
+# --- Secrets ---
+.streamlit/secrets.toml
+app/.streamlit/secrets.toml
+.env
+*.pem
+*.p8
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Power BI ---
+*.pbix.bak
+*.pbit.bak
+powerbi/**/cache/
+
+# --- Snowflake CLI ---
+.snowflake/
+config.toml
+
+# --- OS / IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

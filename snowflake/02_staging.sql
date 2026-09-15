@@ -8,6 +8,20 @@ USE WAREHOUSE WH_ANALYTICS;
 USE SCHEMA RAILANALYTICS.STAGING;
 
 -------------------------------------------------------------------------------
+-- Known source defect: for trips that cross midnight, some operators stamp
+-- the actual time with the operating day instead of the calendar day, which
+-- makes the train appear exactly 24 h early. If the actual time is 23 to
+-- 25 h before the scheduled time, shift it forward by one day.
+-- (Format repair, not business logic, therefore in STAGING. See ADR-002.)
+-------------------------------------------------------------------------------
+CREATE OR REPLACE FUNCTION fix_day_roll(scheduled TIMESTAMP_NTZ, actual TIMESTAMP_NTZ)
+RETURNS TIMESTAMP_NTZ
+AS $$
+  IFF(DATEDIFF('minute', scheduled, actual) BETWEEN -1500 AND -1380,
+      DATEADD('day', 1, actual), actual)
+$$;
+
+-------------------------------------------------------------------------------
 -- Stop events. Grain: one row per trip, operating day and scheduled stop.
 -------------------------------------------------------------------------------
 CREATE OR REPLACE VIEW STG_STOP_EVENT AS
@@ -22,10 +36,14 @@ SELECT
   TRY_TO_NUMBER(BPUIC)                                            AS station_uic,
   HALTESTELLEN_NAME                                               AS station_name,
   TRY_TO_TIMESTAMP_NTZ(ANKUNFTSZEIT, 'DD.MM.YYYY HH24:MI')        AS arrival_scheduled,
-  TRY_TO_TIMESTAMP_NTZ(AN_PROGNOSE,  'DD.MM.YYYY HH24:MI:SS')     AS arrival_actual,
+  fix_day_roll(TRY_TO_TIMESTAMP_NTZ(ANKUNFTSZEIT, 'DD.MM.YYYY HH24:MI'),
+               TRY_TO_TIMESTAMP_NTZ(AN_PROGNOSE,  'DD.MM.YYYY HH24:MI:SS'))
+                                                                  AS arrival_actual,
   NULLIF(AN_PROGNOSE_STATUS, '')                                  AS arrival_status,
   TRY_TO_TIMESTAMP_NTZ(ABFAHRTSZEIT, 'DD.MM.YYYY HH24:MI')        AS departure_scheduled,
-  TRY_TO_TIMESTAMP_NTZ(AB_PROGNOSE,  'DD.MM.YYYY HH24:MI:SS')     AS departure_actual,
+  fix_day_roll(TRY_TO_TIMESTAMP_NTZ(ABFAHRTSZEIT, 'DD.MM.YYYY HH24:MI'),
+               TRY_TO_TIMESTAMP_NTZ(AB_PROGNOSE,  'DD.MM.YYYY HH24:MI:SS'))
+                                                                  AS departure_actual,
   NULLIF(AB_PROGNOSE_STATUS, '')                                  AS departure_status,
   COALESCE(LOWER(FAELLT_AUS_TF)  = 'true', FALSE)                 AS is_cancelled,
   COALESCE(LOWER(DURCHFAHRT_TF)  = 'true', FALSE)                 AS is_pass_through,
